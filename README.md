@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on any board game related projects
 - 📫 You can reach me on here
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like learning new thingss
+- ⚡ Fun fact: I like learning new things
