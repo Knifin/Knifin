@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Knifin or Angie
-- 👀 I’m interested in photography, board games and food
-- 🌱 I’m currently learning TypeScript
-- 💞️ I’m looking to collaborate on any board game related projects
-- 📫 You can reach me on here
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like learning new things
+- 👋 Hi, I’m @Knifin
+- 👀 I’m interested in photography, board games and food.
+- 🌱 I’m currently learning TypeScript.
+- 💞️ I’m looking to collaborate on any board game related projects.
+- 📫 You can reach me on here.
+- 😄 Pronouns: He/Him/Hims
+- ⚡ Fun fact: I like learning new things.
